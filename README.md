@@ -1,5 +1,4 @@
-# Enhancement-of-Images-using-SRCNN
-
+# Enhancement of Images using SRCNN
 
 This repository contains code for enhancing images using the Super-Resolution Convolutional Neural Network (SRCNN).
 
@@ -15,6 +14,4 @@ The implementation and demonstration of the SRCNN model can be found in the Cola
 
 The dataset used for this project can be accessed from the following link: [SRCNN Dataset](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html).
 
-The dataset files are stored in the **Data set** folder in this repository.
-
-Feel free to explore, learn, and enhance your images using the SRCNN model!
+The dataset files are stored in the **[Data set](Data%20set)** folder in this repository.
