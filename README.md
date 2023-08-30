@@ -14,6 +14,4 @@ The Notebook contains the code, explanations, and results related to the Enhance
 
 ## Dataset
 
-The dataset used for this project can be accessed from the following link: [SRCNN Dataset](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html).
-
 The dataset files are stored in the **[Data set](Data%20set)** folder in this repository.
